@@ -59,7 +59,7 @@ const NavBar = ({toggler, themeOutput, status}) => {
     <div className="nextensio__navbar">
       {/* logo features */}
       <div className="nextensio__navbar-links_logo">
-          <a href="https://gchang2004.github.io/"><img src={logo} alt="logo"/></a>
+          <a href="chellrach.com/"><img src={logo} alt="logo"/></a>
       </div>
 
       <div className="nextensio__navbar-links_spacing">
@@ -79,7 +79,7 @@ const NavBar = ({toggler, themeOutput, status}) => {
         <a href="https://login.nextensio.net/">
           <RiAccountCircleLine size={34}/>
         </a>
-        <a href='mailto:support@nextensio.io
+        <a href='mailto:support@chellrach.com
                     ?subject=Nextensio%20Support:%20[INSERT%20Name]%20-%20[For%20Questions%20or%20Quotes]%20
                     &body=Type%20Your%20Message%20Here'>
           <button type="button">{t('navbar-contact')}</button>
