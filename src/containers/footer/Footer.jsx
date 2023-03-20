@@ -26,10 +26,10 @@ const Footer = () => {
           <a href="https://chellrach.com/"><img src={logo} alt="logo"/></a>
             <p>{t('date')}</p> 
             <p>{t('location')}</p>
-            <a href='mailto:support@nextensio.io
+            <a href='mailto:hello@chellrach.com
                       ?subject=Nextensio%20Support:%20[INSERT%20Name]%20-%20[For%20Questions%20or%20Quotes]%20
                       &body=Type%20Your%20Message%20Here'>
-              <h6>support@nextensio.io</h6>
+              <h6>hello@chellrach.com</h6>
             </a>
             <div className="nextensio__footer-links_social-media">
               <a href='https://www.linkedin.com/'>
@@ -92,7 +92,7 @@ const Footer = () => {
                 <p>Google Play</p>
               </a>
             </div>
-            <a href='mailto:support@nextensio.io
+            <a href='mailto:hello@chellrach.com
                     ?subject=Nextensio%20Support:%20[INSERT%20Name]%20-%20[For%20Questions%20or%20Quotes]%20
                     &body=Type%20Your%20Message%20Here'>
               <p>{t('Request Demo')}</p>

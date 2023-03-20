@@ -29,7 +29,7 @@ const WhatNextensio = () => {
         <div className='nextensio__whatNextensio-heading__interact'>
           <h1 className="gradient__text">{t('whatNextensio-heading')}</h1>
           <div className="nextensio__whatNextensio-heading__interact-input">
-            <a href='mailto:support@nextensio.io
+            <a href='mailto:hello@chellrach.com
                   ?subject=Nextensio%20Support:%20[INSERT%20Name]%20-%20Request%20Demo
                   &body=Type%20Your%20Message%20Here'>
               <button type="button">{t('whatNextensio-button')}</button>
