@@ -15,7 +15,7 @@ const CTA = () => {
           {/*Title + Gradient Logo*/}
           <div className="nextensio__cta-content-title">
             <h2>{t('cta-title')}</h2>
-            <h2 className="gradient__text">Nextensio</h2>
+            <h2 className="gradient__text">Chellrach</h2>
           </div>
           <p>{t('cta-text')}</p>
         </div>
